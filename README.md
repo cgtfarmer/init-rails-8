@@ -1,5 +1,12 @@
 # README
 
+Init command:
+
+```sh
+rails new --database postgresql --css bootstrap --js esbuild --skip-kamal
+```
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
